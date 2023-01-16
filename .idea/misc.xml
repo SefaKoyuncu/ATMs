@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/drawable/button_frame.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/drawable/frame.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/drawable/money.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/layout/activity_maps.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/layout/filter.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/mipmap-anydpi-v26/round.xml" value="0.125" />
+        <entry key="..\:/Users/sefak/AndroidStudioProjects/NearATM/app/src/main/res/mipmap-anydpi-v26/square.xml" value="0.125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
